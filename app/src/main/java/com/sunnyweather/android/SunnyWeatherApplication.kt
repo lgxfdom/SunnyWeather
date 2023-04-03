@@ -2,6 +2,7 @@ package com.sunnyweather.android
 
 import android.app.Application
 import android.content.Context
+import android.util.Log
 
 class SunnyWeatherApplication:Application() {
     companion object{
